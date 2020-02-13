@@ -10,3 +10,4 @@
 *.mod
 dev/
 pkg/vignettes/r3PGmix-ReferenceManual.R
+pkg/vignettes/r3PGmix-ReferenceManual.md
